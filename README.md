@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://github.com/Nathaniel-VFX/Discord.js-v14-Command-Handlers">
-   <img src="https://img.shields.io/github/stars/KentaOp/Discord.js-v14--Handler?label=Stars&logo=ReverbNation&&logoColor=yellow&style=social" alt="github-repo-stars">
+   <img src="https://img.shields.io/github/stars/KentaOp/Discord.js-v14-Handler?label=Stars&logo=ReverbNation&&logoColor=yellow&style=social" alt="github-repo-stars">
 </a>
 
 <a href="https://github.com/KentaOp">
