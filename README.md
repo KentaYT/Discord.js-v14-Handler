@@ -33,5 +33,13 @@
 </a>
   
 </p>
+
+<br>
 ## Preview
-<img src="soon"/>
+<img src="Soon"/>
+
+## Installation & Setup
+```
+Soon
+```
+<br />
