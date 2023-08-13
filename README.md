@@ -24,7 +24,7 @@
    <img src="https://img.shields.io/github/forks/KentaOp/Discord.js-v14-Handler?logo=githubactions&logoColor=success&style=social" alt="github-fork">
 </a>
 
-<a href="https://github.com/Nathaniel-VFX/Discord.js-v14-Command-Handlers">
+<a href="https://github.com/KentaOp/Discord.js-v14-Handler">
    <img src="https://img.shields.io/github/stars/KentaOp/Discord.js-v14-Handler?label=Stars&logo=ReverbNation&&logoColor=yellow&style=social" alt="github-repo-stars">
 </a>
 
