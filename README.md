@@ -1,7 +1,7 @@
 <h1 align="center">
    Discord.js v14 Handler
 </h1>
-<h4 align="center">Commands, Events, Permissions and Cooldown Handlers for Discord.js v14 bot ~ Made by kentadev</h4>
+<h4 align="center">Commands, Events, Permissions and Cooldown Handlers for Discord.js v14 bot ~ Made by Kenta</h4>
 
 <p align="center">
 <a href="https://nodejs.org/en/download/">
